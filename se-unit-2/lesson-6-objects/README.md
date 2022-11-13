@@ -36,9 +36,19 @@
 * **Article:** [Understanding Date and Time in JavaScript](https://www.digitalocean.com/community/tutorials/understanding-date-and-time-in-javascript)
 
 **You need to understand how to use the following operators and methods:**
-* **Documentation:** [`in` operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/in) on MDN
-* **Documentation:** [`delete` operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/delete) on MDN
-* **Documentation:** [`for ... in`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in) on MDN
-* **Documentation:** [`Object.keys()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/keys) on MDN
-* **Documentation:** [`Object.assign`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/assign) on MDN
+* **Documentation:** [`in` operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/in) on MDN:
+The `in` operator returns true if a given property exists within the specified object or prototype chain.
+
+* **Documentation:** [`delete` operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/delete) on MDN:
+The `delete` operator deletes a property from an object, even properties that store other objects.
+
+* **Documentation:** [`for ... in`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in) on MDN:
+The `for...in` loops iterates over elements in arrays and/or properties in objects by assigning then a variable. These elements/properties must have there enumerable flags set to true to be able to e iterated. For each iteration the loop executes a set of instructions on the variable.
+
+* **Documentation:** [`Object.keys()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/keys) on MDN:
+This object method returns an array of all the enumerable properties within a given object.
+
+* **Documentation:** [`Object.assign`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/assign) on MDN:
+
+
 * **Documentation:** [`hasOwnProperty`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/hasOwnProperty) on MDN
